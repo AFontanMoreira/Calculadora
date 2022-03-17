@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1b80382-b41e-45e3-97fb-50f4a52d1870" name="Changes" comment="" />
+    <list default="true" id="e1b80382-b41e-45e3-97fb-50f4a52d1870" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculadora/Servidor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculadora/Servidor.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -70,6 +76,7 @@
       <workItem from="1647433758582" duration="5000" />
       <workItem from="1647436453712" duration="10000" />
       <workItem from="1647515948394" duration="1163000" />
+      <workItem from="1647551996454" duration="1229000" />
     </task>
     <servers />
   </component>
